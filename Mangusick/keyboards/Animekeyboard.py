@@ -15,7 +15,7 @@ WatchButton = InlineKeyboardMarkup(
         ]
     ]
 )
-top = InlineKeyboardMarkup(
+Atop = InlineKeyboardMarkup(
     inline_keyboard=[
         [
         InlineKeyboardButton(text="Click", url="t.me/LittleMangaca_bot/animetop")
