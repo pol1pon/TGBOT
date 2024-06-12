@@ -17,7 +17,7 @@ ReadButton = InlineKeyboardMarkup(
 )
 
 
-Zalypa = InlineKeyboardMarkup(
+Mtop = InlineKeyboardMarkup(
     inline_keyboard=[
         [
         InlineKeyboardButton(text="Click", url="t.me/LittleMangaca_bot/MangaTop")
