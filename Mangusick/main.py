@@ -25,9 +25,9 @@ async def echo(message: Message):
     msg = message.text.lower()
 
     if msg == "топ манги":
-        await message.answer( "Воть топ манги:", reply_markup=Mangakeyboard.Zalypa)
+        await message.answer( "Воть топ манги:", reply_markup=Mangakeyboard.Mtop)
     elif msg == "топ аниме":
-        await message.answer( "Воть топ аниме:", reply_markup=Animekeyboard.Xyeta)
+        await message.answer( "Воть топ аниме:", reply_markup=Animekeyboard.top)
     elif msg == "читать мангу":
         await message.answer( "Тута можно почитать", reply_markup=Mangakeyboard.ReadButton)
     elif msg == "смотреть аниме":
