@@ -34,8 +34,6 @@ async def echo(message: Message):
         await message.answer("Тута можно посмотреть аниме", reply_markup=Animekeyboard.WatchButton)
     elif msg == "найти мангу/аниме":
         await message.answer("Напишите название Манги/Аниме которое хотите найти")
-    elif msg == "звони девять один один":
-        await message.answer("Лови бонус озабоченый", reply_markup=Animekeyboard.Bonus)
 
 
     else:
