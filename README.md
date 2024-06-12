@@ -1,2 +1,2 @@
 
-[Защита проекта по Тг боту  (1).pptx](https://github.com/user-attachments/files/15810451/1.pptx)
+[Manga&Anime.pptx](https://github.com/user-attachments/files/15810506/Manga.Anime.pptx)
