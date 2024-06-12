@@ -23,12 +23,3 @@ Xyeta = InlineKeyboardMarkup(
         ]
     ]
 )
-
-Bonus = InlineKeyboardMarkup(
-    inline_keyboard=[
-        [
-        InlineKeyboardButton(text="Click", url="t.me/LittleMangaca_bot/bonus")
-        
-        ]
-    ]
-)
